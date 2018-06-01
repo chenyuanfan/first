@@ -1,0 +1,1 @@
+git使用环境是基于nodejs，需要安装nodejs的环境
